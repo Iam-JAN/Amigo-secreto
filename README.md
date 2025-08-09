@@ -3,13 +3,20 @@
 <h2> 📌Sobre o desafio</h2>
 O objetivo principal deste desafio é desenvolver habilidades em lógica de programação e
 para isso, o HTML e o CSS foram fornecidos.
-
+<h2> Contribuidores </h2>
+Alura e
+ONE
 <h2> 📝 Sobre o projeto</h2>
 <p> 📌O Jogo deve: </p>
-<p>➡️Adicionar nomes; </p>
-<p>➡️Validar entrada; </p>
-<p>➡️Visualizar lista; </p>
-<p>➡️Fazer sorteio aleatório. </p>
+<ult>
+  <p><li>Adicionar nomes; </p></li>
+ <p><li>Validar entrada; </p></li>
+<p><li>Visualizar lista; </p></li>
+<p><li>Fazer sorteio aleatório.</p></li>  
+</ult>
+<h2> 🎮Jogo disponível em: </h2>
+<h5> https://amigosecreto-tau-two.vercel.app//</h5>
+<h2> </h2>
 
 ##    Tecnologias
 <div>
@@ -17,4 +24,6 @@ para isso, o HTML e o CSS foram fornecidos.
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+<h2>🛠️Desenvolvedor</h2>
+<h4> Janaina C. Laurenco </h4>
 
