@@ -27,5 +27,5 @@ ONE
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 <h2>🛠️Desenvolvedor</h2>
-<h4> Janaina C. Laurenco </h4>
+<h4> Janaina  </h4>
 
