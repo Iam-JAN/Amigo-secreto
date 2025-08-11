@@ -1,4 +1,4 @@
-<h1>🧠Desafio challenge amigo secreto</h1>
+<h1>🧠Challenge amigo secreto</h1>
 
 <h2> 📌Sobre o desafio</h2>
 O objetivo principal deste desafio é desenvolver habilidades em lógica de programação e
