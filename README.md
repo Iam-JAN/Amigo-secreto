@@ -18,7 +18,7 @@ ONE
 <h5> https://amigosecreto-tau-two.vercel.app//</h5>
 <h2> </h2>
 <h2> 📝 Status do projeto </h2>
-Em desenvolvimento
+<h3> Finalizado </h3>
 
 ##    Tecnologias
 <div>
