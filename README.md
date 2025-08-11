@@ -7,7 +7,7 @@ para isso, o HTML e o CSS foram fornecidos.
 Alura e
 ONE
 <h2> 📌Obs. </h2>
-Foi alterado o estilo, mantendo a base padrão fornecida. 
+Foram feitas algumas alterações no estilo.
 
 <h2> 📝 Sobre o projeto</h2>
 <p> 📌O Jogo deve: </p>
