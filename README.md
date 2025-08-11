@@ -6,9 +6,6 @@ para isso, o HTML e o CSS foram fornecidos.
 <h2> 📌Contribuidores </h2>
 Alura e
 ONE
-<h2> 📌Obs. </h2>
-Foram feitas algumas alterações no estilo.
-
 <h2> 📝 Sobre o projeto</h2>
 <p> 📌O Jogo deve: </p>
 <ult>
