@@ -29,3 +29,4 @@ ONE
 <h2>🛠️Desenvolvedor</h2>
 <h4> Janaina  </h4>
 
+![imagem minha](https://github.com/user-attachments/assets/738c1e39-cf96-481c-b9ec-6a9cacf0a428)
